@@ -1,0 +1,29 @@
+# ==============================================================================
+# Best-DPI-for-Discord-Turkey - .gitignore
+# ==============================================================================
+
+# Old backups and redundant archives
+_Old_Backup/
+
+# User-specific custom configuration (local game paths)
+4_Discord_Gaming_Launcher/custom_games.json
+
+# Temporary, cache and log files
+*.log
+*.tmp
+*.bak
+*.swp
+*.suo
+*.user
+
+# Build and IDE artifacts
+.vs/
+bin/
+obj/
+*.pdb
+
+# OS generated files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
